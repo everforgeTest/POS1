@@ -1,7 +1,7 @@
 const HotPocket = require('hotpocket-js-client');
 const bson = require('bson');
 const sodium = require('libsodium-wrappers');
-
+//RR
 class ContractService {
   constructor(servers, keyPair) {
     this.servers = servers;
