@@ -1,6 +1,6 @@
 const HotPocket = require('hotpocket-js-client');
 const { assertSuccessResponse } = require('../test-utils');
-
+//wdsfdsf
 async function runPOSTests() {
   console.log('Running POS tests...');
   const kp = await HotPocket.generateKeys();
